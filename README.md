@@ -6,7 +6,7 @@ The Background:
 ![alt text](https://github.com/vietdelta/BackGroundSubtractor/blob/master/1_2.JPEG?raw=true)
 
 
-The Background with a Person front:
+The Background with a Person in front:
 ![alt text](https://github.com/vietdelta/BackGroundSubtractor/blob/master/1.JPEG?raw=true)
 
 The Image of Person extracted:
